@@ -9,5 +9,4 @@ This project analyzes 5 years of SPY (S&P 500 ETF) daily closing prices (2020–
 
 ## 🛠️ Tools Used
 * **Pandas:** For time-series data manipulation and rolling window calculations.
-* **Matplotlib:** To visualize price action and the convergence of moving average lines.
-* **NumPy:** For vectorized signal processing.
+
